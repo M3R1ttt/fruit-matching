@@ -1,0 +1,52 @@
+[
+    {
+        "image": "images/banana.png",
+        "name": "Muz",
+        "id": 1
+    },
+    {
+        "image": "images/peach.png",
+        "name": "Şeftali",
+        "id": 2
+    },
+    {
+        "image": "images/melon.png",
+        "name": "Kavun",
+        "id": 3
+    },
+    {
+        "image": "images/apple.png",
+        "name": "Elma",
+        "id": 4
+    },
+    {
+        "image": "images/orange.png",
+        "name": "Portakal",
+        "id": 5
+    },
+    {
+        "image": "images/grape.png",
+        "name": "Üzüm",
+        "id": 6
+    },
+    {
+        "image": "images/strawberry.png",
+        "name": "Çilek",
+        "id": 7
+    },
+    {
+        "image": "images/watermelon.png",
+        "name": "Karpuz",
+        "id": 8
+    },
+    {
+        "image": "images/kiwi.png",
+        "name": "Kivi",
+        "id": 9
+    },
+    {
+        "image": "images/pear.png",
+        "name": "Armut",
+        "id": 10
+    }
+]
